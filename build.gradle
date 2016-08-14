@@ -34,11 +34,11 @@ buildscript {
 apply plugin: 'forge'
 
 group = 'lib.enderwizards.sandstone' // Your main package.
-version = "1.0.0"
+version = "1.0.1"
 archivesBaseName = 'LibSandstone'
 
 minecraft {
-	version = "1.7.10-10.13.0.1180"
+	version = "1.7.10-10.13.4.1614"
 }
 
 processResources {
